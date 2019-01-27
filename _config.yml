@@ -1,10 +1,10 @@
 permalink: /:year:month:day/:title
-url: #Your url here
-baseurl: /project
+url: https://vps.lol  #Your url here
+baseurl: /
 
 # variables
-name: Your Site Name
-description: Your description here
+name: VPS
+description: VPS Hosting
 google_verification: null
 
 
